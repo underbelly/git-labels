@@ -1,0 +1,31 @@
+[
+  { "name": "Branding", "color": "#bfd4f2" },
+  { "name": "Design", "color": "#ea4c89" },
+  { "name": "Development", "color": "#01aae9" },
+  { "name": "Production", "color": "#cc181e" },
+
+  { "name": "Estimate: 1", "color": "#5e60ba" },
+  { "name": "Estimate: 2", "color": "#5e60ba" },
+  { "name": "Estimate: 3", "color": "#5e60ba" },
+  { "name": "Estimate: 5", "color": "#5e60ba" },
+  { "name": "Estimate: 8", "color": "#5e60ba" },
+  { "name": "Estimate: 13", "color": "#5e60ba" },
+  { "name": "Estimate: 21", "color": "#5e60ba" },
+  { "name": "Estimate: 40", "color": "#5e60ba" },
+
+  { "name": "Priority: Critical", "color": "#b60205" },
+  { "name": "Priority: High", "color": "#eb6420" },
+  { "name": "Priority: Medium", "color": "#fbca04" },
+  { "name": "Priority: Low", "color": "#a1ffd9" },
+
+  { "name": "Status: Blocked", "color": "#d93f0b" },
+  { "name": "Status: Completed", "color": "#006b75" },
+  { "name": "Status: In Progress", "color": "#009800" },
+  { "name": "Status: On Hold", "color": "#fbca04" },
+  { "name": "Status: Review Requested", "color": "#5319e7" },
+  { "name": "Status: Revision Requested", "color": "#1d76db" },
+
+  { "name": "Type: Bug", "color": "#b60205" },
+  { "name": "Type: Discussion", "color": "#d4c5f9" },
+  { "name": "Type: Refactor", "color": "#c2e0c6" }
+]
